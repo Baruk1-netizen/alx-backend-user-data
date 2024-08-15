@@ -164,6 +164,4 @@ alx-backend-user-data/
 │   ├── README.md
 ```
 
-## Authors
 
-- [@waltertaya](https://github.com/waltertaya)
